@@ -1,11 +1,13 @@
 # book-club
 BOOK CLUB
 
-Let's start an Any Book Book Club - https://bookriot.com/2015/03/04/book-book-club/!
+Structure?
 
+* Any Book Book Club - https://bookriot.com/2015/03/04/book-book-club/!
 
+Book Suggestions
 
-Books
-
-* The One Thing
-* Crucial Conversations
+* The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results
+* Originals: How Non-Conformists Move the World
+* Flow: The Psychology of Optimal Experience
+* Crucial Conversations: Tools for Talking When Stakes are High
