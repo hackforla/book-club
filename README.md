@@ -2,7 +2,9 @@
 
 ## How does this work?
 
-No idea - have any thoughts on that?
+No idea - have any thoughts on that?  Open an Issue to leave a comment, or start up a conversation in the Hack for LA Slack's #book-club channel!
+
+Here's one resource I found:
 
 * Any Book Book Club - https://bookriot.com/2015/03/04/book-book-club/!
 
